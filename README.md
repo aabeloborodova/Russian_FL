@@ -7,4 +7,4 @@
 4. [!alt-text][picture]
 5. > Цитата
 
-[picture](https://sun9-58.userapi.com/c858236/v858236705/1ad799/7X3rqNkzTHM.jpg "Картинка")
+[picture]: https://sun9-58.userapi.com/c858236/v858236705/1ad799/7X3rqNkzTHM.jpg "Картинка"
